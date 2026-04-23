@@ -143,6 +143,12 @@ superstore-business-analysis/
 
 <img width="758" height="523" alt="image" src="https://github.com/user-attachments/assets/6744c87a-5b70-4789-abef-b3848dedcd0a" />
 
+<img width="1857" height="801" alt="image" src="https://github.com/user-attachments/assets/282c8e7f-87f9-4c04-9865-fb00411947e0" />
+
+<img width="1856" height="808" alt="image" src="https://github.com/user-attachments/assets/bbadf1da-54b8-4854-a659-084dcb9561ff" />
+
+
+
 
 
 
